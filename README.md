@@ -4,7 +4,7 @@
 A Deep Learning model which tells you the letters of the captcha texts.
 #### Example:
 | <img src="captcha.jpg?raw=true" width="200">|
-|:-:|:-:|
+
 |Text: 8746|
 ### Descrition
 The goal of the model is to extract all the letters of a captcha image.
