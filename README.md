@@ -1,7 +1,7 @@
 # Captcha_Solver
 ### By Amit Joshi
 
-A Deep Learning model which tells you the letters of the captcha texts.
+cap_gotcha is a deep learning model which tells you the letters of the captcha texts.
 #### Example:
 <img src="captcha.jpg?raw=true" width="200">
 
