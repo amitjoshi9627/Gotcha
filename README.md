@@ -1,4 +1,4 @@
-# Captcha_Solver
+# cap_gotcha
 ### By Amit Joshi
 
 cap_gotcha is a deep learning model which tells you the letters of the captcha texts.
