@@ -1,7 +1,7 @@
-# Cap_gotcha
+# Gotcha
 ### By Amit Joshi
 
-Cap_gotcha is a deep learning model which tells you the letters of the captcha texts.
+Gotcha is a deep learning model which tells you the letters of the captcha texts.
 #### Example:
 <img src="captcha.jpg?raw=true" width="200">
 
